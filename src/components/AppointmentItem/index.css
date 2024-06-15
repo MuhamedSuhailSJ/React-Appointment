@@ -1,0 +1,31 @@
+.listItem {
+  list-style-type: none;
+  margin: 10px;
+}
+
+.listhead {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.headinglist {
+  font-size: 17px;
+  margin: 0;
+}
+
+.listdate {
+  margin: 0;
+  margin-top: 8px;
+}
+
+.listContainer {
+  width: 250px;
+  padding: 8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 2px solid #b5b7c4;
+  border-radius: 8px;
+}
